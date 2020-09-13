@@ -8,15 +8,15 @@
 
 # Site settings
 # title appears in the header
-title: workshop-template
+title: Map it Out
 # description and keywords for meta tags
-description: "Create an OER workshop website quick and easy!"
-keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
+description: "A workshop on creating a digital mapping project"
+keywords: "workshops, GIS, spatial thinking"
 
 # author settings for cc-by, appears in the footer
-author: evan will
-pub_year: 2018
-github_username: evanwill
+author: Andy Rutkowski
+pub_year: 2020
+github_username: andyrutkowski
 
 # add the full url for the github repository
 repo: "https://github.com/andyrutkowski/mapitout"
