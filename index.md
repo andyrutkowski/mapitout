@@ -17,7 +17,7 @@ Welcome to this 5 part workshop focused on creating a working digital project.
 {% endfor %}
 </div>
 
-Hosted by [University of Southern Californai](http://www.usc.libraries.edu/), {{ site.pub_year }}.
+Hosted by [University of Southern California](http://www.usc.libraries.edu/), {{ site.pub_year }}.
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
